@@ -1,0 +1,57 @@
+
+Bill of materials for the pushbutton board.
+
+I have "translated" this from the raw BOM exported from Eagle. Interpreting the BOM exported from the Eagle files and identifying appropriate components when you go shopping
+can be a little bit tricky, it requires a little bit of interpretation.
+
+Misc. components:
+-----------------
+									e14 SKU		Price (AUD)	Digikey SKU	Price (USD)	Jaycar		Price (AUD)
+6 x Momentary push-button switch, through-hole.				1555985		$0.343		450-1650-ND	$0.09
+1 x 100 nF ceramic capacitor, through-hole, 0.1" lead spacing.		1457658		$0.141		478-3192-ND	$0.16
+3 x PCB pins																HP1250		$4.50/50
+
+I can't find any PCB pins (the round kind with the flange, the same as Jaycar stocks) at either element14 or Digikey. Can anybody find them?
+
+Resistors: All through-hole, 0.4" lead spacing, 0.25 W or 0.5 W, 5% or 1% tolerance.
+-------------------------------------------------------------------------------------
+		e14 SKU		Price (AUD)	Digikey SKU	Price (USD)
+2 x 2.2 k	9339302*	$0.097		2.2KQBK-ND**	0.07
+1 x 330 R	9339418*	$0.097		330QBK-ND**	0.07
+1 x 680 R	9339655*	$0.097		680QBK-ND**	0.07
+1 x 3.3 k	9339426*	$0.097		3.3KQBK-ND**	0.07
+1 x 1 k		9339051*	$0.097		1.0KQBK-ND**	0.07
+
+Prices are only for the smallest quantities, ignoring the lower high-volume pricing even though it might be appropriate for some things.
+
+* 50 minimum
+** 5 minimum
+
+Below I have included the original text of the raw BOM file exported out of Eagle, so you can read it and compare it to what is above, for educational value.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Partlist exported from /Users/Luke/Desktop/ArduinoLab/buttons/eagle/ArduinoLabButtons.sch at 10/04/11 7:59 PM
+
+Part Value     Device                Package      Description                 
++5V  +5V       WIREPAD3,81/1,3       3,81/1,3     Wire PAD connect wire on PCB
+C1   100 nF    C-EU025-024X044       C025-024X044 CAPACITOR, European symbol  
+GND  GND       WIREPAD3,81/1,3       3,81/1,3     Wire PAD connect wire on PCB
+JP1  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+JP2  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+JP3  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+JP4  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+OUT  BUTTON_IN WIREPAD3,81/1,3       3,81/1,3     Wire PAD connect wire on PCB
+R1   2.2 k     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R2   330 R     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R3   680 R     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R4   1 k       R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R5   2.2 k     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R6   3.3 k     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+S1   DOWN      SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S2   LEFT      SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S3   UP        SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S4   RIGHT     SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S5   CANCEL    SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S6   OK        SWITCH-MOMENTARY-2PTH TACTILE-PTH
+                              

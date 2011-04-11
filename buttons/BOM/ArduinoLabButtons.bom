@@ -1,0 +1,23 @@
+Partlist exported from /Users/Luke/Desktop/ArduinoLab/buttons/eagle/ArduinoLabButtons.sch at 10/04/11 7:59 PM
+
+Part Value     Device                Package      Description                 
++5V  +5V       WIREPAD3,81/1,3       3,81/1,3     Wire PAD connect wire on PCB
+C1   100 nF    C-EU025-024X044       C025-024X044 CAPACITOR, European symbol  
+GND  GND       WIREPAD3,81/1,3       3,81/1,3     Wire PAD connect wire on PCB
+JP1  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+JP2  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+JP3  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+JP4  STAND-OFF STAND-OFF             STAND-OFF    Stand Off                   
+OUT  BUTTON_IN WIREPAD3,81/1,3       3,81/1,3     Wire PAD connect wire on PCB
+R1   2.2 k     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R2   330 R     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R3   680 R     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R4   1 k       R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R5   2.2 k     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+R6   3.3 k     R-EU_0207/10          0207/10      RESISTOR, European symbol   
+S1   DOWN      SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S2   LEFT      SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S3   UP        SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S4   RIGHT     SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S5   CANCEL    SWITCH-MOMENTARY-2PTH TACTILE-PTH                              
+S6   OK        SWITCH-MOMENTARY-2PTH TACTILE-PTH                              

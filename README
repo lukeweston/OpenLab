@@ -1,1 +1,28 @@
-Luke is too lazy to write a readme just yet.
+
+Motherboard:
+
+Because this board has a lot of hardware packed relatively tightly onto it, because it includes a few relatively exotic ICs which only exist as SMDs, and because of the size
+restrictions of the Light version of Eagle, this board is designed almost entirely around surface-mount components.
+
+Output Daughterboard:
+
+This board contains the transistors for the open-collector transistor outputs (three of them), plus the amplifier and filter circuit for the analog waveform generator
+output.
+
+Because this board does not contain any particularly specialised ICs, and it does not require so many components packed on with such a high density, through-hole components
+are used. Some people prefer through-hole components, and using through-hole components on this board means that it is more familar to construct for people who are not used
+to working with surface mount components, and this means that this project includes both surface-mount components (on the motherboard), and through-hole components on this
+daughterboard.
+
+Pushbutton keypad board:
+
+The pushbutton keypad is on its own separate small PCB. This makes it much easier to wire up the switches, compared to wiring up individual buttons manually.
+This simple board includes the six pushbuttons and a string of resistors, and it is designed to be connected to a single analog input on the AVR and the button states
+read by reading the analog voltage.
+
+This is a very simple board which could easily be constructed by anyone, it is single sided, and the PCB is so simple that it could probably be fabricated at home.
+It's probably quite valuable as a general pushbutton interface board for general Arduino activities outside the context of the ArduinoLab project, and this board probably
+has wider appeal for these reasons.
+
+I have written up the BOM for this board in a more verbose format, translating the Eagle-generated BOM into Digi-Key and element14 part numbers, so you can easily go shopping for components.
+I have not yet been through this for the other boards yet.
