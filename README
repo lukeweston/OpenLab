@@ -24,5 +24,6 @@ This is a very simple board which could easily be constructed by anyone, it is s
 It's probably quite valuable as a general pushbutton interface board for general Arduino activities outside the context of the ArduinoLab project, and this board probably
 has wider appeal for these reasons.
 
-I have written up the BOM for this board in a more verbose format, translating the Eagle-generated BOM into Digi-Key and element14 part numbers, so you can easily go shopping for components.
-I have not yet been through this for the other boards yet.
+I have written up the BOM for this board in a more verbose format, translating the Eagle-generated BOM into Digi-Key and element14 part numbers, so you can easily go shopping
+for components. I have not yet been through this for the other boards.
+

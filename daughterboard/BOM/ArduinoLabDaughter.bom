@@ -1,0 +1,59 @@
+Partlist exported from /Users/Luke/Desktop/ArduinoLab/daughterboard/eagle/ArduinoLabDaughter.sch at 10/04/11 7:58 PM
+
+Part Value     Device          Package       Description                         
++5V  +5V       WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+C1   470 nF    C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C2   470 nF    C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C4   1 nF      C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C5   100 nF    C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C6   100 nF    C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C7   470 nF    C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C8   100 nF    C-EU025-024X044 C025-024X044  CAPACITOR, European symbol          
+C9   BP        CPOL-EUE2.5-7   E2,5-7        POLARIZED CAPACITOR, European symbol
+D1   1N5819    DIODE-D-10      D-10          DIODE                               
+D2   1N5819    DIODE-D-10      D-10          DIODE                               
+D3   1N4004    DIODE-D-10      D-10          DIODE                               
+D4   1N4004    DIODE-D-10      D-10          DIODE                               
+D5   1N5819    DIODE-D-10      D-10          DIODE                               
+D6   1N4004    DIODE-D-10      D-10          DIODE                               
+GND  GND       WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+IC1  OPA340P   OPA340P         DIL08         Rail-to-Rail Operational Amplifiers 
+JP1  STAND-OFF STAND-OFF       STAND-OFF     Stand Off                           
+JP2  STAND-OFF STAND-OFF       STAND-OFF     Stand Off                           
+JP3  STAND-OFF STAND-OFF       STAND-OFF     Stand Off                           
+JP4  STAND-OFF STAND-OFF       STAND-OFF     Stand Off                           
+LED1           LED3MM          LED3MM        LED                                 
+LED2           LED3MM          LED3MM        LED                                 
+LED3           LED3MM          LED3MM        LED                                 
+PAD1 OC2_OUT   WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+PAD2 OC3_OUT   WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+PAD3 OC2_IN    WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+PAD4 OC3_IN    WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+PAD5 DDS_IN    WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+PAD6 OC1_OUT   WIREPAD3,81/1,3 3,81/1,3      Wire PAD connect wire on PCB        
+Q1   2N2222    2N2222          TO92-EBC-OVAL NPN TRANSISTOR                      
+Q2   2N2222    2N2222          TO92-EBC-OVAL NPN TRANSISTOR                      
+Q3   2N2222    2N2222          TO92-EBC-OVAL NPN TRANSISTOR                      
+R1   1 k       R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R2   1 k       R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R3   680 R     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R4   680 R     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R5   470 R     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R6   470 R     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R7   100 k     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R8   18 R      R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R9   100 k     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R10  18 R      R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R11  1 k       R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R12  1 k       R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R13  10 R      R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R14  1 k       R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R15  680 R     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R16  470 R     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R17  100 k     R-EU_0207/10    0207/10       RESISTOR, European symbol           
+R18  18 R      R-EU_0207/10    0207/10       RESISTOR, European symbol           
+S1   PULL-UP   320-916         320-916       TOGGLE SWITCH                       
+S2   PULL-UP   320-916         320-916       TOGGLE SWITCH                       
+S3   AC COUPLE 320-916         320-916       TOGGLE SWITCH                       
+S4   PULL-UP   320-916         320-916       TOGGLE SWITCH                       
+S5             320-916         320-916       TOGGLE SWITCH                       
