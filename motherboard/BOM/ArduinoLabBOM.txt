@@ -1,0 +1,70 @@
+
+ICs
+----
+
+1 x ATmega328 IC, TQFP-32 package
+1 x FT232RL IC
+1 x TPS61202 IC, QFN-10 package
+1 x MCP73831 IC, SOT23-5 package
+1 x LD1117S33 voltage regulator, SOT-223 package
+1 x 4053 IC, SOIC package
+2 x 4094 IC, SOIC package
+
+Discrete Semiconductors
+-----------------------
+
+3 x MMBT2222 NPN transistor, SOT-23 package
+1 x FDS9431A P-channel MOSFET
+6 x green LED, SMD 0805
+4 x 5.6 V Zener diode, SOD-223
+1 x 5.6 V 5 W Zener diode, through-hole
+
+Resistors
+---------
+
+9 x 1 k, SMD 0805
+3 x 1 M, SMD 0805
+1 x 4.7 k, SMD 0805
+1 x 110 k, SMD 0805
+1 x 2.2 k, SMD 0805
+2 x 100 k, SMD 0805
+3 x 470 R, SMD 0805
+2 x 22 R, SMD 0805
+
+(5% tolerance 0.25 W or 0.125 W is fine for all the above)
+
+5 x 3.3 k, 1%, SMD 0805
+11 x 10 k, 1%, SMD 0805
+1 x 1 R, 1 W, SMD 2512 package
+1 x 10 k SMD trimpot
+2 x 10 k trimpot, standard panel-mounting 16 mm.
+
+Capacitors
+----------
+
+10 x 100 nF capacitor, SMD 0805
+2 x 22 pF ceramic capacitor, SMD 0805
+
+1 x 47 uF 10 V tantalum capacitor, SMD 'C' package
+1 x 10 uF 10 V tantalum capacitor, SMD 'C' package
+2 x 4.7 uF 10 V tantalum capacitor, SMD 'A' package
+1 x 4700 uF 10 V electrolytic, through-hole, 5.08 mm lead pitch
+
+Other
+-----
+
+1 x piezo speaker
+1 x 4.7 uH 1.2 A inductor
+1 x 16 MHz crystal, HC-49S
+1 x AA 3.6 V lithium-ion cell
+1 x SMD momentary tactile pushbutton
+1 x USB mini 'B' connector, SMD
+
+18 x PC pins
+1 x 2x3 pin header, for ICSP
+2 x 8-pin female 0.1" headers
+2 x 6-pin female 0.1" headers
+2 x 10-pin 2 mm XBee headers
+1 x 2-pin 0.1" pin header, for jumper
+1 x 20-pin 0.1" pin header, for LCD
+
