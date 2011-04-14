@@ -1,70 +1,78 @@
 
 ICs
 ----
+								e14 SKU		e14 price	Digi-key SKU		Digikey price (USD)
+												
+1 x ATmega328 IC, TQFP-32 package				1715486		$9.80		ATMEGA328-AU-ND		$3.83
+1 x FT232RL IC							114603		$7.94		768-1007-1-ND		$4.50
+1 x TPS61202 IC, QFN-10 package					1564953		$6.20		296-24865-1-ND		$3.30	
+1 x MCP73831 IC, SOT23-5 package				1332158		$1.44		MCP73831T-2ACI/OTCT-ND	$0.68	
+1 x LD1117S33 voltage regulator, SOT-223 package		1467779		$1.18		497-1241-1-ND		$0.74
+1 x 4053 IC, SOIC package					1014064		$0.847		296-14274-1-ND		$0.51
+2 x 4094 IC, SOIC package					1201297		$0.747		296-27189-1-ND		$0.56
 
-1 x ATmega328 IC, TQFP-32 package
-1 x FT232RL IC
-1 x TPS61202 IC, QFN-10 package
-1 x MCP73831 IC, SOT23-5 package
-1 x LD1117S33 voltage regulator, SOT-223 package
-1 x 4053 IC, SOIC package
-2 x 4094 IC, SOIC package
+* Don't need to purchase ATmega328s and FT232RLs as they're coming from Jon's assembly people.
 
+1 x graphics LCD display (don't need to order these, Marc is already getting them.)
+`
 Discrete Semiconductors
 -----------------------
 
-3 x MMBT2222 NPN transistor, SOT-23 package
-1 x FDS9431A P-channel MOSFET
-6 x green LED, SMD 0805
-4 x 5.6 V Zener diode, SOD-223
-1 x 5.6 V 5 W Zener diode, through-hole
+3 x MMBT2222 NPN transistor, SOT-23 package			1467896		$0.13		MMBT2222A-FDICT-ND	$0.32
+1 x FDS9431A P-channel MOSFET					1467989		$1.10		FDS9431ACT-ND		$0.69
+6 x green LED, SMD 0805						1686075		$0.158		754-1094-1-ND		$0.20
+4 x 5.6 V Zener diode, SOD-223					1757862		$0.06		MMSZ5232BS-FDICT-ND	$0.42
+1 x 5.6 V 5 W Zener diode, through-hole				1383755		$3.93		1N5339BGOS-ND		$0.44
 
 Resistors
 ---------
 
-9 x 1 k, SMD 0805
-3 x 1 M, SMD 0805
-1 x 4.7 k, SMD 0805
-1 x 110 k, SMD 0805
-1 x 2.2 k, SMD 0805
-2 x 100 k, SMD 0805
-3 x 470 R, SMD 0805
-2 x 22 R, SMD 0805
+9 x 1 k								1811778		$0.044		RMCF0805JT1K00CT-ND	$0.03
+3 x 1 M								1811781		$0.044		RMCF0805JT1M00CT-ND	$0.03
+1 x 4.7 k							1811904		$0.044		RMCF0805JT4K70CT-ND	$0.03
+1 x 110 k							1469864		$0.03		P110KACT-ND		$0.04				
+1 x 2.2 k							1811840		$0.044		RMCF0805JT2K20CT-ND	$0.03
+2 x 100 k							1811780		$0.044		RMCF0805JT100KCT-ND	$0.03
+3 x 470 R							1811902		$0.044		RMCF0805JT470RCT-ND	$0.03
+2 x 22 R							1099789		$0.023		RMCF0805JT22R0CT-ND	$0.03
 
-(5% tolerance 0.25 W or 0.125 W is fine for all the above)
+(SMD 0805 package for all the above, 5% tolerance 0.25 W or 0.125 W is fine.)
 
-5 x 3.3 k, 1%, SMD 0805
-11 x 10 k, 1%, SMD 0805
-1 x 1 R, 1 W, SMD 2512 package
-1 x 10 k SMD trimpot
-2 x 10 k trimpot, standard panel-mounting 16 mm.
+5 x 3.3 k, 1%, SMD 0805						1469911		$0.03		RMCF0805FT3K30CT-ND	$0.04	
+11 x 10 k, 1%, SMD 0805						1652909		$0.02		RMCF0805FT10K0CT-ND	$0.04	
+1 x 1 R, 1 W, SMD 2512 package					9235833		$0.097		RMCF2512JT1R00CT-ND	$0.44
+1 x 10 k SMD trimpot						46M2527		$0.134		TC33X-103ECT-ND		$0.25
+2 x 10 k pot, standard panel-mounting 24 mm.			32M9482		$1.71		??			??
 
 Capacitors
 ----------
 
-10 x 100 nF capacitor, SMD 0805
-2 x 22 pF ceramic capacitor, SMD 0805
+10 x 100 nF capacitor, SMD 0805					1759265		$0.018		311-1361-1-ND		$0.028
+2 x 22 pF ceramic capacitor, SMD 0805				06R4053		$0.016		709-1172-1-ND		$0.044
 
-1 x 47 uF 10 V tantalum capacitor, SMD 'C' package
-1 x 10 uF 10 V tantalum capacitor, SMD 'C' package
-2 x 4.7 uF 10 V tantalum capacitor, SMD 'A' package
-1 x 4700 uF 10 V electrolytic, through-hole, 5.08 mm lead pitch
+1 x 47 uF 10 V tantalum capacitor, SMD 'C' package		1754064		$0.795		478-3911-1-ND		$0.46
+1 x 10 uF 10 V tantalum capacitor, SMD 'C' package		9753907		$0.832		478-1702-1-ND		$0.40
+2 x 4.7 uF 10 V tantalum capacitor, SMD 'A' package		1672491		$1.29		478-3869-1-ND		$0.38
+1 x 4700 uF 10 V electrolytic, through-hole, 5.08 mm pitch	9692754		$1.67		P5130-ND		$0.90
 
 Other
 -----
 
-1 x piezo speaker
-1 x 4.7 uH 1.2 A inductor
-1 x 16 MHz crystal, HC-49S
-1 x AA 3.6 V lithium-ion cell
-1 x SMD momentary tactile pushbutton
-1 x USB mini 'B' connector, SMD
+1 x piezo speaker						??		??		445-2525-1-ND		$0.39
+1 x 4.7 uH 1.2 A inductor					1644482		$4.19		495-2674-1-ND		$1.61
+1 x 16 MHz crystal, HC-49S					1611734		$0.88		535-10226-1-ND		$0.41
+1 x AA 3.6 V lithium-ion cell					??		??		??			??
+1 x SMD momentary tactile pushbutton				??		??		CKN9104CT-ND		$0.96
+1 x USB mini 'B' connector, SMD					1125348		$2.32		H2959CT-ND		$1.18
 
-18 x PC pins
-1 x 2x3 pin header, for ICSP
-2 x 8-pin female 0.1" headers
-2 x 6-pin female 0.1" headers
-2 x 10-pin 2 mm XBee headers
-1 x 2-pin 0.1" pin header, for jumper
-1 x 20-pin 0.1" pin header, for LCD
+18 x PC pins							??		??		??			??
+1 x 2x3 pin header, for ICSP					1248132		$0.705		3M9459-ND		$0.26
+2 x 8-pin female 0.1" headers					??		??		S7006-ND		$0.75
+2 x 6-pin female 0.1" headers					??		??		S7004-ND		$0.59
+2 x 10-pin 2 mm XBee headers					??		??		S5751-10-ND		$1.14
+1 x 2-pin 0.1" pin header, for jumper				??		??		??			??
+1 x 20-pin 0.1" female header, for LCD				??		??		S7018-ND		$1.56
+0.5 x 40-pin 0.1" pin header for LCD cable			??		??		A26509-40-ND		$1.60	
+1 x 0.1" jumper shunt						1097975		$0.557		3M9580-ND		$0.06
+2 x AA battery clips, PCB mounting.				908733		$6.09		??			??
 
