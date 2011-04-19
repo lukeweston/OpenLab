@@ -1,0 +1,36 @@
+Element 14
+
+(5+1) 6 x MCP73831 IC, SOT23-5 package				1332158		$1.44	
+(5+1) 6 x LD1117S33 voltage regulator, SOT-223 package		1467779		$1.18
+(5+1) 6 x 4053 IC, SOIC package					1014064		$0.847
+(5x2+1) 11 x 4094 IC, SOIC package				1201297		$0.747
+
+(5x3+2) 17 x MMBT2222 NPN transistor, SOT-23 package		1467896		$0.13
+(5+1)    6 x FDS9431A P-channel MOSFET				1467989		$1.10
+(5x6+2) 32 x green LED, SMD 0805				1686075		$0.158
+(5x4+2) 22 x 5.6 V Zener diode, SOD-223				1757862		$0.06		
+
+(5+1) 6 x 1 R, 1 W, SMD 2512 package				9235833		$0.097	
+(5+1) 6 x 10 k SMD trimpot					46M2527		$0.134
+(5x2) 10 x 10 k pot, standard panel-mounting 24 mm.		32M9482		$1.71
+
+(5x10+5) 55 x 100 nF capacitor, SMD 0805			1759265		$0.018		
+(5x2+2) 12 x 22 pF ceramic capacitor, SMD 0805			06R4053		$0.016
+
+5 x 47 uF 10 V tantalum capacitor, SMD 'C' package		1754064		$0.795		
+5 x 10 uF 10 V tantalum capacitor, SMD 'C' package		9753907		$0.832		
+5 x 4700 uF 10 V electrolytic, through-hole, 5.08 mm pitch	9692754		$1.67
+
+5 x 0.1" jumper shunt						1097975		$0.557		
+(5x2) 10 x AA battery clips, PCB mounting.			908733		$6.09		
+5 x 16 MHz crystal, HC-49S					1611734		$0.88	
+(5+1) 6 x USB mini 'B' connector, SMD				1125348		$2.32		
+5 x 2x3 pin header, for ICSP					1248132		$0.705		
+
+(5x3) 15 x Green LED, through-hole, 3 mm			1461623		$0.14		
+(5x3) 15 x 1N5819 diode, through-hole package			1017589		$0.173			
+(5x3) 15 x 1N4004 diode, through-hole package			9109595		$0.034
+
+5 x 1 nF ceramic capacitor, 0.1" lead pitch			1694095		$0.10		
+(5x4) 20 x 100 nF ceramic capacitor, 0.1" lead pitch		1457658		$0.141
+

@@ -5,42 +5,42 @@ Element 14
 Motherboards:
 -------------
 								
-10 x MCP73831 IC, SOT23-5 package				1332158		$1.44	
-10 x LD1117S33 voltage regulator, SOT-223 package		1467779		$1.18
-10 x 4053 IC, SOIC package					1014064		$0.847
-20 x 4094 IC, SOIC package					1201297		$0.747
+(5+1) 6 x MCP73831 IC, SOT23-5 package				1332158		$1.44	
+(5+1) 6 x LD1117S33 voltage regulator, SOT-223 package		1467779		$1.18
+(5+1) 6 x 4053 IC, SOIC package					1014064		$0.847
+(5x2+1) 11 x 4094 IC, SOIC package				1201297		$0.747
 
-30 x MMBT2222 NPN transistor, SOT-23 package			1467896		$0.13
-10 x FDS9431A P-channel MOSFET					1467989		$1.10
-50 x green LED, SMD 0805					1686075		$0.158
-30 x 5.6 V Zener diode, SOD-223					1757862		$0.06		
+(5x3+2) 17 x MMBT2222 NPN transistor, SOT-23 package		1467896		$0.13
+(5+1)    6 x FDS9431A P-channel MOSFET				1467989		$1.10
+(5x6+2) 32 x green LED, SMD 0805				1686075		$0.158
+(5x4+2) 22 x 5.6 V Zener diode, SOD-223				1757862		$0.06		
 
-10 x 1 R, 1 W, SMD 2512 package					9235833		$0.097	
-10 x 10 k SMD trimpot						46M2527		$0.134
-20 x 10 k pot, standard panel-mounting 24 mm.			32M9482		$1.71
+(5+1) 6 x 1 R, 1 W, SMD 2512 package				9235833		$0.097	
+(5+1) 6 x 10 k SMD trimpot					46M2527		$0.134
+(5x2) 10 x 10 k pot, standard panel-mounting 24 mm.		32M9482		$1.71
 
-100 x 100 nF capacitor, SMD 0805				1759265		$0.018		
-20 x 22 pF ceramic capacitor, SMD 0805				06R4053		$0.016
+(5x10+5) 55 x 100 nF capacitor, SMD 0805			1759265		$0.018		
+(5x2+2) 12 x 22 pF ceramic capacitor, SMD 0805			06R4053		$0.016
 
-10 x 47 uF 10 V tantalum capacitor, SMD 'C' package		1754064		$0.795		
-10 x 10 uF 10 V tantalum capacitor, SMD 'C' package		9753907		$0.832		
-10 x 4700 uF 10 V electrolytic, through-hole, 5.08 mm pitch	9692754		$1.67
+5 x 47 uF 10 V tantalum capacitor, SMD 'C' package		1754064		$0.795		
+5 x 10 uF 10 V tantalum capacitor, SMD 'C' package		9753907		$0.832		
+5 x 4700 uF 10 V electrolytic, through-hole, 5.08 mm pitch	9692754		$1.67
 
-10 x 0.1" jumper shunt						1097975		$0.557		
-20 x AA battery clips, PCB mounting.				908733		$6.09		
-10 x 16 MHz crystal, HC-49S					1611734		$0.88	
-10 x USB mini 'B' connector, SMD				1125348		$2.32		
-10 x 2x3 pin header, for ICSP					1248132		$0.705		
+5 x 0.1" jumper shunt						1097975		$0.557		
+(5x2) 10 x AA battery clips, PCB mounting.			908733		$6.09		
+5 x 16 MHz crystal, HC-49S					1611734		$0.88	
+(5+1) 6 x USB mini 'B' connector, SMD				1125348		$2.32		
+5 x 2x3 pin header, for ICSP					1248132		$0.705		
 
 Output Daughterboards and Pushbutton Keypads:
 ----------------------------------------------
 
-30 x Green LED, through-hole, 3 mm				1461623		$0.14		
-30 x 1N5819 diode, through-hole package				1017589		$0.173			
-30 x 1N4004 diode, through-hole package				9109595		$0.034
+(5x3) 15 x Green LED, through-hole, 3 mm			1461623		$0.14		
+(5x3) 15 x 1N5819 diode, through-hole package			1017589		$0.173			
+(5x3) 15 x 1N4004 diode, through-hole package			9109595		$0.034
 
-10 x 1 nF ceramic capacitor, 0.1" lead pitch			1694095		$0.10		
-35 x 100 nF ceramic capacitor, 0.1" lead pitch			1457658		$0.141
+5 x 1 nF ceramic capacitor, 0.1" lead pitch			1694095		$0.10		
+(5x4) 20 x 100 nF ceramic capacitor, 0.1" lead pitch		1457658		$0.141
 
 Digi-Key
 --------
@@ -48,53 +48,52 @@ Digi-Key
 Motherboards:
 -------------
 												
-10 x TPS61202 IC, QFN-10 package								296-24865-1-ND		$3.30	
-10 x 5.6 V 5 W Zener diode, through-hole							1N5339BGOS-ND		$0.44
-20 x 4.7 uF 10 V tantalum capacitor, SMD 'A' package						478-3869-1-ND		$0.38
-8 x piezo speaker										445-2525-1-ND		$0.39
-10 x 4.7 uH 1.2 A inductor									495-2674-1-ND		$1.61
-10 x SMD momentary tactile pushbutton								CKN9104CT-ND		$0.96
-20 x 8-pin female 0.1" headers									S7006-ND		$0.75
-20 x 6-pin female 0.1" headers									S7004-ND		$0.59
-20 x 10-pin 2 mm XBee headers									S5751-10-ND		$1.14
-8 x 20-pin 0.1" female header, for LCD								S7018-ND		$1.56
-5 x 40-pin 0.1" pin header for LCD cable							A26509-40-ND		$1.60	
+(5+1) 6 x TPS61202 IC, QFN-10 package								296-24865-1-ND		$3.30	
+5 x 5.6 V 5 W Zener diode, through-hole								1N5339BGOS-ND		$0.44
+(5x2) 10 x 4.7 uF 10 V tantalum capacitor, SMD 'A' package					478-3869-1-ND		$0.38
+5 x piezo speaker										445-2525-1-ND		$0.39
+(5+1) 6 x 4.7 uH 1.2 A inductor									495-2674-1-ND		$1.61
+(5+1) 6 x SMD momentary tactile pushbutton							CKN9104CT-ND		$0.96
+(5x2) 10 x 8-pin female 0.1" headers								S7006-ND		$0.75
+(5x2)10 x 6-pin female 0.1" headers								S7004-ND		$0.59
+(5x2) 10 x 10-pin 2 mm XBee headers								S5751-10-ND		$1.14
+5 x 20-pin 0.1" female header, for LCD								S7018-ND		$1.56
+(5x0.5) 3 x 40-pin 0.1" pin header for LCD cable						A26509-40-ND		$1.60	
 
 SMD 0805 Resistors:
-80 x 1 k											RMCF0805JT1K00CT-ND	$0.03
-30 x 1 M											RMCF0805JT1M00CT-ND	$0.03
-10 x 4.7 k											RMCF0805JT4K70CT-ND	$0.03
-10 x 2.2 k											RMCF0805JT2K20CT-ND	$0.03
-30 x 100 k											RMCF0805JT100KCT-ND	$0.03
-30 x 470 R											RMCF0805JT470RCT-ND	$0.03
-20 x 22 R											RMCF0805JT22R0CT-ND	$0.03
+(5x9) 45 x 1 k											RMCF0805JT1K00CT-ND	$0.03
+(5x3) 15 x 1 M											RMCF0805JT1M00CT-ND	$0.03
+5 x 4.7 k											RMCF0805JT4K70CT-ND	$0.03
+5 x 2.2 k											RMCF0805JT2K20CT-ND	$0.03
+(5x2) 10 x 100 k											RMCF0805JT100KCT-ND	$0.03
+(5x3) 15 x 470 R											RMCF0805JT470RCT-ND	$0.03
+(5x2) 10 x 22 R											RMCF0805JT22R0CT-ND	$0.03
 
-10 x 110 k, SMD 0805										P110KACT-ND		$0.04				
-45 x 3.3 k, 1%, SMD 0805									RMCF0805FT3K30CT-ND	$0.04	
-90 x 10 k, 1%, SMD 0805										RMCF0805FT10K0CT-ND	$0.04	
+(5+5) 10 x 110 k, SMD 0805										P110KACT-ND		$0.04				
+(5x5+5) 30 x 3.3 k, 1%, SMD 0805									RMCF0805FT3K30CT-ND	$0.04	
+(11x5+5) 60 x 10 k, 1%, SMD 0805										RMCF0805FT10K0CT-ND	$0.04	
 
 Output Daughterboards and Pushbutton Keypads:
 ----------------------------------------------
 
-10 x OPA340P op-amp, DIP package								OPA340PA-ND	$2.48
-30 x 2N2222 bipolar transistor, TO-92 through-hole						P2N2222AGOS-ND	$0.53
-30 x 470 nF ceramic capacitor, 0.1" lead pitch							478-4858-ND	$0.36
-60 x Momentary push-button switch, through-hole							450-1650-ND	$0.09
-30 x 18 R resistor, 0.5 W									18H-ND		$0.062
+5 x OPA340P op-amp, DIP package									OPA340PA-ND	$2.48
+(5x3) 15 x 2N2222 bipolar transistor, TO-92 through-hole						P2N2222AGOS-ND	$0.53
+(5x3) 15 x 470 nF ceramic capacitor, 0.1" lead pitch							478-4858-ND	$0.36
+(5x6) 30 x Momentary push-button switch, through-hole							450-1650-ND	$0.09
+(5x3) 15 x 18 R resistor, 0.5 W									18H-ND		$0.062
 
 Resistors: (all 0.4" through-hole, 0.25 W 1% or 5% unless specified.)
 ---------------------------------------------------------------------
 
-60 x 1 k											1.0KQBK-ND	$0.07	
-40 x 680 R											680QBK-ND	$0.07
-30 x 470 R											470QBK-ND	$0.07	
-30 x 100 k											100KQBK-ND	$0.07
-10 x 10 R											10QBK-ND	$0.07
-20 x 2.2 k											2.2KQBK-ND	$0.07	
-10 x 330 R											330QBK-ND	$0.07
-10 x 3.3 k											3.3KQBK-ND	$0.07
+(5x6) 30 x 1 k											1.0KQBK-ND	$0.07	
+(5x4) 20 x 680 R											680QBK-ND	$0.07
+(5x3) 15 x 470 R											470QBK-ND	$0.07	
+(5x3) 15 x 100 k											100KQBK-ND	$0.07
+5 x 10 R											10QBK-ND	$0.07
+(5x2) 10 x 2.2 k											2.2KQBK-ND	$0.07	
+5 x 330 R											330QBK-ND	$0.07
+5 x 3.3 k											3.3KQBK-ND	$0.07
 
 Other Stuff: LCD displays. FT232RL ICs. Toggle switches. PCB pins. Binding posts. Boxes. Batteries. AVR microcontrollers.
-250 x Jaycar HP1250 PCB pins (used on daughterboards too)
-
+150 x Jaycar HP1250 PCB pins (used on daughterboards too)
 
